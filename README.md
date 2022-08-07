@@ -35,7 +35,7 @@ void loop() {
    ```
    2) Creating the ESP32 Web server:
    
-     Use the following code to setup your network, replace "ZiyadESP32" & "123456789" for your ssid name and password            respectivly:
+     Use the following code to setup your network, replace "ZiyadESP32" & "123456789" for your ssid name and password
      
 ```ruby
 /*********
