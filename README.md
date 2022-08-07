@@ -9,7 +9,7 @@
    
    After installing the library, go to your Arduino IDE. Make sure you have the ESP32 board selected (WEMOS D1 MINI ESP32),    and then, go to File > Examples > ServoESP32 > Simple Servo. The following code will show up:
       
-      ```ruby
+```ruby
 #include <Servo.h>
 
 Servo myservo;  // create servo object to control a servo
@@ -32,7 +32,7 @@ void loop() {
     delay(15);                       // waits 15ms for the servo to reach the position
   }
 }
-      ```
+   ```
    2) Creating the ESP32 Web server:
    
      Use the following code to setup your network, replace "ZiyadESP32" & "123456789" for your ssid name and password            respectivly:
