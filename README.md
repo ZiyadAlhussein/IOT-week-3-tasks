@@ -195,7 +195,7 @@ void loop(){
 }
  ```  
 
-3. Write the following code to make a webpage that would control the position of the servo motor from 0 to 180 degrees:
+3) Write the following code to make a webpage that would control the position of the servo motor from 0 to 180 degrees:
 
 ```ruby
 <!DOCTYPE html>
@@ -238,6 +238,7 @@ void loop(){
 </html>
 ```
 **2. Run the complete code in Arduino**
+
 ```ruby
 /*********
   Rui Santos
