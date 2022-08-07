@@ -237,7 +237,9 @@ void loop(){
 </body>
 </html>
 ```
-**2. Run the complete code in Arduino**
+**2. Run the complete code in Arduino after connecting the circuit as shown below:**
+
+![image](https://user-images.githubusercontent.com/108147030/183304202-f092fa28-6ab8-488a-9313-762c11f48df9.png)
 
 ```ruby
 /*********
